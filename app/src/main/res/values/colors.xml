@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="baby_coklat">#F4CA79</color>
+    <color name="coklat_muda">#E5A36D</color>
+    <color name="coklat_tua">#BD715E</color>
+    <color name="coklat_gelap">#A14B58</color>
+    <color name="sedikit_ungu">#871554</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSubtitle">#757575</color>
+</resources>
